@@ -14,6 +14,19 @@ The Smart Resume Parser uses NLP and pattern matching to automatically extract, 
 - Interactive UI using Streamlit
 
 ## Installation / Usage
+## Installation / Usage
 1. Download the `smart-resume-parser.zip` from this repository.
 2. Extract the ZIP to a local folder.
 3. Install required Python libraries:
+   pip install -r requirements.txt
+4. Run the Streamlit app:
+   streamlit run app.py
+5. Upload a PDF/DOCX resume and view the extracted information.
+
+## Project Files
+- `smart-resume-parser.zip` – Full project code including PPT  
+- `Smart_Resume_Parser_2_Slides.pptx` – 2-slide project presentation (inside ZIP)
+
+## Contact
+Email: sujalkabra30@gmail.com
+
